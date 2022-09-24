@@ -7,7 +7,7 @@ Built with **React**
 
 1. Clone
    ```
-   git clone https://github.com/opeseyi/React-Learning-1.git
+   git clone https://github.com/opeseyi/Add-User
    ```
 2. Install dependencies
 
